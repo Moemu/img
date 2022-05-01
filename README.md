@@ -14,5 +14,5 @@
 
 # 调用链接：
 
-https://cdn.jsdelivr.net/gh/WhitemuTeam/web-img/img/
+https://img.muspace.top/img/
 
